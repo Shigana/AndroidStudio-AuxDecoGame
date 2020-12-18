@@ -6,3 +6,5 @@ Even visually impaired people can play by linking a smartphone with a product ca
 これはスマホを動かして、画面上の穴に玉を落とすゲームです。
 
 株式会社アイプラスプラスが販売しているオーデコという製品とスマホを連携させて視覚障害者の方でも遊ぶことができます。
+
+References：https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%B3
